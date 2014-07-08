@@ -1,0 +1,21 @@
+[
+{
+  "modid": "UsefulStuffMod",
+  "name": "Useful Stuff Mod",
+  "description": "A mod that'll provide all your needs! now with 100% more fun!",
+  "version": "${mod_version}",
+  "mcversion": "${minecraft_version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Pasterian"
+  ],
+  "credits": "Pasterian",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

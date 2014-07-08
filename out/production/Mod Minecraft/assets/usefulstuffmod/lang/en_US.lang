@@ -1,0 +1,24 @@
+# Language File
+
+
+# Blocks
+tile.MinablePick.name=Pick Infused Stone
+
+# Items
+
+
+# Item Shards
+item.usefulstuffmod:redShard.name=Red Shard
+item.usefulstuffmod:blueShard.name=Blue Shard
+item.usefulstuffmod:pinkShard.name=Pink Shard
+item.usefulstuffmod:purpleShard.name=Purple Shard
+item.usefulstuffmod:greenShard.name=Green Shard
+item.usefulstuffmod:cyanShard.name=Cyan Shard
+item.usefulstuffmod:yellowShard.name=Yellow Shard
+
+# Tile Entities
+
+
+# Other
+itemGroup.UMItemTab=Useful Stuff Mod: Items
+itemGroup.UMBlockTab=Useful Stuff Mod: Block

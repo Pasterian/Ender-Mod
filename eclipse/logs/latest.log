@@ -1,0 +1,41 @@
+[20:38:28] [main/INFO]: Setting user: ForgeDevName
+[20:38:30] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:38:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
+[20:38:43] [Sound Library Loader/INFO]: Sound engine started
+[20:38:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:38:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:38:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
+[20:38:45] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:38:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:38:46] [Sound Library Loader/INFO]: Sound engine started
+[20:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:38:46] [Client thread/ERROR]: @ Post startup
+[20:38:46] [Client thread/ERROR]: 1281: Invalid value
+[20:38:52] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:38:52] [Server thread/INFO]: Generating keypair
+[20:38:52] [Server thread/INFO]: Preparing start region for level 0
+[20:38:54] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:38:54] [Server thread/INFO]: ForgeDevName[local:E:bd075dfb] logged in with entity id 195 at (705.0153616684617, 5.265818510613096, 1484.9731209186968)
+[20:38:54] [Server thread/INFO]: ForgeDevName joined the game
+[20:38:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2126ms behind, skipping 42 tick(s)
+[20:39:26] [Server thread/INFO]: Saving and pausing game...
+[20:39:26] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
+[20:39:26] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
+[20:39:26] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
+[20:50:23] [Server thread/INFO]: [ForgeDevName: Set own game mode to Survival Mode]
+[20:50:23] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:50:24] [Server thread/INFO]: Saving and pausing game...
+[20:50:24] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
+[20:50:24] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
+[20:50:24] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
+[20:50:33] [Server thread/INFO]: Saving and pausing game...
+[20:50:33] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
+[20:50:33] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
+[20:50:33] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
+[20:50:34] [Server thread/INFO]: Stopping server
+[20:50:34] [Server thread/INFO]: Saving players
+[20:50:34] [Server thread/INFO]: Saving worlds
+[20:50:34] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
+[20:50:34] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
+[20:50:34] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
+[20:50:38] [Client thread/INFO]: Stopping!
