@@ -1,41 +1,14 @@
-[22:32:08] [main/INFO]: Setting user: ForgeDevName
-[22:32:11] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:32:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
-[22:32:28] [Sound Library Loader/INFO]: Sound engine started
-[22:32:30] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:32:30] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:32:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
-[22:32:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:32:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:32:32] [Sound Library Loader/INFO]: Sound engine started
-[22:32:32] [Client thread/ERROR]: ########## GL ERROR ##########
-[22:32:32] [Client thread/ERROR]: @ Post startup
-[22:32:32] [Client thread/ERROR]: 1281: Invalid value
-[22:32:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:32:58] [Server thread/INFO]: Generating keypair
-[22:32:59] [Server thread/INFO]: Preparing start region for level 0
-[22:33:00] [Server thread/INFO]: Preparing spawn area: 45%
-[22:33:01] [Server thread/INFO]: Changing view distance to 2, from 10
-[22:33:02] [Server thread/INFO]: ForgeDevName[local:E:c0991fb5] logged in with entity id 27 at (-2.0860727234714522, 237.0, -271.5605682263245)
-[22:33:02] [Server thread/INFO]: ForgeDevName joined the game
-[22:33:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2334ms behind, skipping 46 tick(s)
-[22:33:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:33:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:33:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:33:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:33:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:33:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:33:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:36:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
-[22:36:49] [Server thread/INFO]: Saving and pausing game...
-[22:36:49] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
-[22:36:49] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
-[22:36:49] [Server thread/INFO]: Saving chunks for level 'Test'/The End
-[22:36:50] [Server thread/INFO]: Stopping server
-[22:36:50] [Server thread/INFO]: Saving players
-[22:36:50] [Server thread/INFO]: Saving worlds
-[22:36:50] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
-[22:36:50] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
-[22:36:50] [Server thread/INFO]: Saving chunks for level 'Test'/The End
-[22:36:52] [Client thread/INFO]: Stopping!
+[23:02:38] [main/INFO]: Setting user: ForgeDevName
+[23:02:41] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:02:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
+[23:03:00] [Sound Library Loader/INFO]: Sound engine started
+[23:03:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:03:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:03:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
+[23:03:03] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:03:03] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:03:04] [Sound Library Loader/INFO]: Sound engine started
+[23:03:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[23:03:04] [Client thread/ERROR]: @ Post startup
+[23:03:04] [Client thread/ERROR]: 1281: Invalid value
+[23:29:45] [Client thread/INFO]: Stopping!
