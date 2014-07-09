@@ -8,9 +8,12 @@ import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.init.Items;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraft.world.IBlockAccess;
 
 public class BlockMinablePick extends Block {
+
+    public ItemStack pickaxeIronStack = new ItemStack(Items.iron_pickaxe);
 
     public BlockMinablePick(Material mat){
         super(mat);
@@ -22,7 +25,9 @@ public class BlockMinablePick extends Block {
         this.setBlockTextureName(Reference.MOD_ID.toLowerCase() + ":" + "MinablePick");
     }
 
-    public Item getItemDropped(int par1, Random rand, int par2){
+    private Random random = new Random();
+    @Override
+    public Item getItemDropped(int metadata, Random random, int fortune) {
         return Items.iron_pickaxe;
     }
 

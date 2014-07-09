@@ -24,13 +24,9 @@ public class GenericBlock extends Block {
     @Override
     public String getUnlocalizedName()
     {
-        return String.format("item.%s%s", Reference.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+        return String.format("block.%s%s", Reference.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
     }
 
-    public String getUnlocalizedName(ItemStack itemStack)
-    {
-        return String.format("item.%s%s", Reference.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
-    }
 
     @Override
     @SideOnly(Side.CLIENT)
@@ -52,4 +48,3 @@ public class GenericBlock extends Block {
 
     }
 }
-

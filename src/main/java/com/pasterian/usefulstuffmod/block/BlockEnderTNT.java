@@ -1,11 +1,11 @@
 package com.pasterian.usefulstuffmod.block;
 
+import com.pasterian.usefulstuffmod.UsefulStuffMod;
 import com.pasterian.usefulstuffmod.init.UMBlocks;
 import com.pasterian.usefulstuffmod.utility.UMUtil;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
-import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.init.Blocks;
 import net.minecraft.util.IIcon;
@@ -18,7 +18,8 @@ public class BlockEnderTNT extends GenericTNT {
 
 
     public BlockEnderTNT() {
-        super(Material.tnt);
+        super();
+        this.setCreativeTab(UsefulStuffMod.UMCreativeTabBlock);
         this.setBlockName("enderTNT");
         this.setHardness(0.0f);
         this.setStepSound(soundTypeGravel);

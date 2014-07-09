@@ -1,55 +1,41 @@
-[13:39:34] [main/INFO]: Setting user: ForgeDevName
-[13:39:36] [Client thread/INFO]: LWJGL Version: 2.9.1
-[13:39:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
-[13:39:48] [Sound Library Loader/INFO]: Sound engine started
-[13:39:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[13:39:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[13:39:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
-[13:39:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[13:39:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[13:39:50] [Sound Library Loader/INFO]: Sound engine started
-[13:39:51] [Client thread/ERROR]: ########## GL ERROR ##########
-[13:39:51] [Client thread/ERROR]: @ Post startup
-[13:39:51] [Client thread/ERROR]: 1281: Invalid value
-[13:39:55] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[13:39:55] [Server thread/INFO]: Generating keypair
-[13:39:56] [Server thread/INFO]: Preparing start region for level 0
-[13:39:57] [Server thread/INFO]: Changing view distance to 12, from 10
-[13:39:58] [Server thread/INFO]: ForgeDevName[local:E:8e71349d] logged in with entity id 206 at (858.3810702522028, 5.381881490207696, 1444.699999988079)
-[13:39:58] [Server thread/INFO]: ForgeDevName joined the game
-[13:40:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2551ms behind, skipping 51 tick(s)
-[13:40:52] [Server thread/INFO]: Saving and pausing game...
-[13:40:52] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
-[13:40:52] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
-[13:40:52] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
-[13:41:06] [Server thread/INFO]: Saving and pausing game...
-[13:41:06] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
-[13:41:06] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
-[13:41:06] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
-[13:41:07] [Server thread/INFO]: Saving and pausing game...
-[13:41:07] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
-[13:41:07] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
-[13:41:07] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
-[13:41:08] [Server thread/INFO]: Saving and pausing game...
-[13:41:08] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
-[13:41:08] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
-[13:41:08] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
-[13:41:09] [Server thread/INFO]: Saving and pausing game...
-[13:41:09] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
-[13:41:09] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
-[13:41:09] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
-[13:41:09] [Server thread/INFO]: Saving and pausing game...
-[13:41:09] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
-[13:41:09] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
-[13:41:09] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
-[13:41:10] [Server thread/INFO]: Saving and pausing game...
-[13:41:10] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
-[13:41:10] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
-[13:41:10] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
-[13:41:10] [Server thread/INFO]: Stopping server
-[13:41:10] [Server thread/INFO]: Saving players
-[13:41:10] [Server thread/INFO]: Saving worlds
-[13:41:10] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Overworld
-[13:41:10] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/Nether
-[13:41:10] [Server thread/INFO]: Saving chunks for level 'Testing Mod'/The End
-[13:41:12] [Client thread/INFO]: Stopping!
+[22:32:08] [main/INFO]: Setting user: ForgeDevName
+[22:32:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:32:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
+[22:32:28] [Sound Library Loader/INFO]: Sound engine started
+[22:32:30] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:32:30] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:32:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
+[22:32:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:32:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:32:32] [Sound Library Loader/INFO]: Sound engine started
+[22:32:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[22:32:32] [Client thread/ERROR]: @ Post startup
+[22:32:32] [Client thread/ERROR]: 1281: Invalid value
+[22:32:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:32:58] [Server thread/INFO]: Generating keypair
+[22:32:59] [Server thread/INFO]: Preparing start region for level 0
+[22:33:00] [Server thread/INFO]: Preparing spawn area: 45%
+[22:33:01] [Server thread/INFO]: Changing view distance to 2, from 10
+[22:33:02] [Server thread/INFO]: ForgeDevName[local:E:c0991fb5] logged in with entity id 27 at (-2.0860727234714522, 237.0, -271.5605682263245)
+[22:33:02] [Server thread/INFO]: ForgeDevName joined the game
+[22:33:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2334ms behind, skipping 46 tick(s)
+[22:33:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:33:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:33:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:33:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:33:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:33:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:33:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:36:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fuse
+[22:36:49] [Server thread/INFO]: Saving and pausing game...
+[22:36:49] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[22:36:49] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[22:36:49] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[22:36:50] [Server thread/INFO]: Stopping server
+[22:36:50] [Server thread/INFO]: Saving players
+[22:36:50] [Server thread/INFO]: Saving worlds
+[22:36:50] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[22:36:50] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[22:36:50] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[22:36:52] [Client thread/INFO]: Stopping!
