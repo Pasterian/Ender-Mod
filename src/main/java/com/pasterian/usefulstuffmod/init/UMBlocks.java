@@ -8,13 +8,16 @@ import net.minecraft.block.material.Material;
 public class UMBlocks {
 
     public static final Block MinablePick = new BlockMinablePick(Material.rock);
-    public static final GenericTNT redQuartz = new BlockRedQuartz();
+    public static final GenericBlock redQuartz = new BlockRedQuartz();
     public static final GenericBlock blueQuartz = new BlockBlueQuartz();
     public static final GenericBlock yellowQuartz = new BlockYellowQuartz();
     public static final GenericBlock greenQuartz = new BlockGreenQuartz();
     public static final GenericBlock pinkQuartz = new BlockPinkQuartz();
     public static final GenericBlock purpleQuartz = new BlockPurpleQuartz();
     public static final GenericBlock cyanQuartz = new BlockCyanQuartz();
+
+    public static final GenericTNT enderTNT = new BlockEnderTNT();
+
 
     public static void init() {
 
@@ -26,6 +29,9 @@ public class UMBlocks {
         GameRegistry.registerBlock(cyanQuartz, "CyanQuartz");
         GameRegistry.registerBlock(blueQuartz, "BlueQuartz");
         GameRegistry.registerBlock(MinablePick, "minablePick");
+
+        GameRegistry.registerBlock(enderTNT, "enderTNT");
+
     }
 }
 
