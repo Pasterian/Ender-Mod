@@ -1,14 +1,30 @@
-[23:02:38] [main/INFO]: Setting user: ForgeDevName
-[23:02:41] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:02:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
-[23:03:00] [Sound Library Loader/INFO]: Sound engine started
-[23:03:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:03:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:03:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
-[23:03:03] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:03:03] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:03:04] [Sound Library Loader/INFO]: Sound engine started
-[23:03:04] [Client thread/ERROR]: ########## GL ERROR ##########
-[23:03:04] [Client thread/ERROR]: @ Post startup
-[23:03:04] [Client thread/ERROR]: 1281: Invalid value
-[23:29:45] [Client thread/INFO]: Stopping!
+[23:52:22] [main/INFO]: Setting user: ForgeDevName
+[23:52:25] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:52:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
+[23:52:38] [Sound Library Loader/INFO]: Sound engine started
+[23:52:40] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:52:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:52:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Useful Stuff Mod
+[23:52:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:52:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:52:42] [Sound Library Loader/INFO]: Sound engine started
+[23:52:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[23:52:42] [Client thread/ERROR]: @ Post startup
+[23:52:42] [Client thread/ERROR]: 1281: Invalid value
+[23:56:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:56:36] [Server thread/INFO]: Generating keypair
+[23:56:37] [Server thread/INFO]: Preparing start region for level 0
+[23:56:37] [Server thread/INFO]: Changing view distance to 2, from 10
+[23:56:38] [Server thread/INFO]: ForgeDevName[local:E:4251d438] logged in with entity id 13 at (-1827.6065277817036, 56.0, -338.3172883334101)
+[23:56:38] [Server thread/INFO]: ForgeDevName joined the game
+[23:56:53] [Server thread/INFO]: Saving and pausing game...
+[23:56:53] [Server thread/INFO]: Saving chunks for level 'Sandstone'/Overworld
+[23:56:53] [Server thread/INFO]: Saving chunks for level 'Sandstone'/Nether
+[23:56:53] [Server thread/INFO]: Saving chunks for level 'Sandstone'/The End
+[23:56:54] [Server thread/INFO]: Stopping server
+[23:56:54] [Server thread/INFO]: Saving players
+[23:56:54] [Server thread/INFO]: Saving worlds
+[23:56:54] [Server thread/INFO]: Saving chunks for level 'Sandstone'/Overworld
+[23:56:54] [Server thread/INFO]: Saving chunks for level 'Sandstone'/Nether
+[23:56:54] [Server thread/INFO]: Saving chunks for level 'Sandstone'/The End
+[23:56:55] [Client thread/INFO]: Stopping!

@@ -4,6 +4,16 @@
 # Blocks
 tile.MinablePick.name=Pick Infused Stone
 
+block.usefulstuffmod:RedQuartz.name=Red Quartz Block
+block.usefulstuffmod:BlueQuartz.name=Blue Quartz Block
+block.usefulstuffmod:YellowQuartz.name=Yellow Quartz Block
+block.usefulstuffmod:CyanQuartz.name=Cyan Quartz Block
+block.usefulstuffmod:PinkQuartz.name=Pink Quartz Block
+block.usefulstuffmod:PurpleQuartz.name=Purple Quartz Block
+block.usefulstuffmod:GreenQuartz.name=Green Quartz Block
+
+block.usefulstuffmod:enderTNT.name=Ender TNT
+
 # Items
 
 
